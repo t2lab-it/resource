@@ -1,6 +1,6 @@
 # ウェビナー
 
-## YouTubeチャンネル
+## YouTube チャンネル
 
 - [Australasian Fluid Mechanics Society Inc](https://www.youtube.com/@australasianfluidmechanics6391)
   - [Australasian Fluid Mechanics Society](https://www.afms.org.au/)（オーストラリア流体力学会）が主催するウェビナー
@@ -24,11 +24,11 @@
     - Alessandra Lanotte (CNR NANOTEC and INFN, Lecce) - Breakup of small particles in turbulent flows.
     - Alexei Mailybaev (IMPA, Rio de Janeiro) - Turbulence predictability and spontaneous stochasticity.
 - [Boulder Summer School 2022](https://www.youtube.com/playlist?list=PL8mMEmoXNBfaFV2wA4lDD7j_f2l7BTYIV) 2022
-  - アメリカのコロラド州にあるUniversity of Colorado, Boulderで毎年開催されるサマースクール[BSS Physics School](https://boulderschool.yale.edu/)の2022年版"[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)"
+  - アメリカのコロラド州にある University of Colorado, Boulder で毎年開催されるサマースクール[BSS Physics School](https://boulderschool.yale.edu/)の 2022 年版"[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)"
   - 荒木が参加していました
   - おすすめ：_TBA_
 - [Congress A tale of Mathematics & Physics - A tribute to Krzysztof Gawedzki](https://www.youtube.com/playlist?list=PLLsRJsYVVgsN_AgXJJ0GmmAwi1A07_Rat) 2022
-  - [ENS Lyon](https://www.ens-lyon.fr/en/)で開催された spontaneous stochasticityを見出した物理学者Krzysztof Gawedzkiの追悼ワークショップ
+  - [ENS Lyon](https://www.ens-lyon.fr/en/)で開催された spontaneous stochasticity を見出した物理学者 Krzysztof Gawedzki の追悼ワークショップ
   - [[CONGRESS] Gregory Eyink (JHU) - What is Spontaneous Stochasticity and How Far Do We Understand It?](https://youtu.be/L-pTgI0ygxI?si=DUHgvVaiYHFaCRPs)
 - [Data-Driven Fluid Mechanics](https://www.youtube.com/playlist?list=PLKCfRadWZy1w7O6B0NnvZpaCy9Kp6zmwC) 2020
   - ベルギーにある[von Karman Institute for Fluid Dynamics](https://www.vki.ac.be/)が開催したデータ駆動形流体力学のワークショップ
@@ -42,8 +42,8 @@
   - [Institute for Advanced Study](https://www.ias.edu/)（プリンストン高等研究所）が主催したオンラインワークショップ
   - おすすめ：_TBA_
 - [New Challenges in Turbulence Research V](https://www.youtube.com/playlist?list=PLo9ufcrEqwWFN9bB03xKpwQKeWRKWDMFT) 2019
-  - フランスのモンブランの麓のLes Houchesで開催される[Ecole de Physique des Houches](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp)の2019年版"[New Challenges in Turbulence Research V](https://nctr.eu/index.php/en/2019-edition/96-program-speakers-2019)"
-  - これ以外の回の講義資料は[公式サイト](https://nctr.eu/index.php/en/)からダウンロードできる．動画が公開されているのは2019年開催の第5回のみっぽい？
+  - フランスのモンブランの麓の Les Houches で開催される[Ecole de Physique des Houches](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp)の 2019 年版"[New Challenges in Turbulence Research V](https://nctr.eu/index.php/en/2019-edition/96-program-speakers-2019)"
+  - これ以外の回の講義資料は[公式サイト](https://nctr.eu/index.php/en/)からダウンロードできる．動画が公開されているのは 2019 年開催の第 5 回のみっぽい？
   - おすすめ：_TBA_
 - [田崎晴明によるオンライン講義](https://www.gakushuin.ac.jp/~881791/OL/indexJ.html)
 
@@ -53,7 +53,7 @@
 
 - [田崎晴明，「非平衡統計力学入門：現代的な視点から」](https://www.gakushuin.ac.jp/~881791/OL/ne/j/index.html)
 - [Tomohiro Tanogami, "Thermal noise effects on turbulence"](https://www2.yukawa.kyoto-u.ac.jp/~hydro-2024/program.html) 2024
-  - 「ゆらぐ流体」ワークショップでの田之上さんの講義（2.5時間）
+  - 「ゆらぐ流体」ワークショップでの田之上さんの講義（2.5 時間）
 
 ### セミナー
 
