@@ -1,18 +1,16 @@
 # ウェビナー
 
-## YouTube チャンネル
-
-- [Australasian Fluid Mechanics Society Inc](https://www.youtube.com/@australasianfluidmechanics6391)
-  - [Australasian Fluid Mechanics Society](https://www.afms.org.au/)（オーストラリア流体力学会）が主催するウェビナー
-  - おすすめ：_TBA_
-- [LMFL Fluid Mechanics Webinar](https://www.youtube.com/@lmflfluidmechanicswebinar2801)
-  - フランスのリールにある[Laboratoire de Mécanique des Fluides de Lille](https://lmfl.cnrs.fr/)が主催するウェビナー
-  - おすすめ：_TBA_
-
-## 再生リスト
+## （集中）講義（5時間以上）
 
 - [Curso: Hidden Symmetries in Fluid Dynamics](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQvCiCQ_KeJWeiiHzfxesSH) 2024
   - [Alexei A. Mailybaev](https://alexei.impa.br/)と[Simon Thalabard](https://sites.google.com/site/simthalabard/)による集中講義
+- [田崎晴明，「非平衡統計力学入門：現代的な視点から」](https://www.gakushuin.ac.jp/~881791/OL/ne/j/index.html) 2023
+  - [田崎晴明によるオンライン講義](https://www.gakushuin.ac.jp/~881791/OL/indexJ.html)
+
+## ワークショップ・サマースクール（2〜5時間）
+
+- [Tomohiro Tanogami, "Thermal noise effects on turbulence"](https://www2.yukawa.kyoto-u.ac.jp/~hydro-2024/program.html) 2024
+  - 「ゆらぐ流体」ワークショップでの田之上さんの講義（2.5 時間）
 - [100 Years of Turbulent Cascades](https://univ-cotedazur.eu/events/turbulence-semester/summer-school) 2023
   - フランスのニースで開催された乱流カスケードに関するサマースクール
   - 荒木が参加していました（が，博論を書きながらだったのであまり集中して聞けていなかった）
@@ -45,17 +43,19 @@
   - フランスのモンブランの麓の Les Houches で開催される[Ecole de Physique des Houches](https://www.houches-school-physics.com/ecole-de-physique-des-houches/home-ecole-les-houches-1066564.kjsp)の 2019 年版"[New Challenges in Turbulence Research V](https://nctr.eu/index.php/en/2019-edition/96-program-speakers-2019)"
   - これ以外の回の講義資料は[公式サイト](https://nctr.eu/index.php/en/)からダウンロードできる．動画が公開されているのは 2019 年開催の第 5 回のみっぽい？
   - おすすめ：_TBA_
-- [田崎晴明によるオンライン講義](https://www.gakushuin.ac.jp/~881791/OL/indexJ.html)
 
-## ウェビナー動画
+## セミナー（1〜2時間）
 
-### （集中）講義
+#### シリーズ
 
-- [田崎晴明，「非平衡統計力学入門：現代的な視点から」](https://www.gakushuin.ac.jp/~881791/OL/ne/j/index.html)
-- [Tomohiro Tanogami, "Thermal noise effects on turbulence"](https://www2.yukawa.kyoto-u.ac.jp/~hydro-2024/program.html) 2024
-  - 「ゆらぐ流体」ワークショップでの田之上さんの講義（2.5 時間）
+- [Australasian Fluid Mechanics Society Inc](https://www.youtube.com/@australasianfluidmechanics6391)
+  - [Australasian Fluid Mechanics Society](https://www.afms.org.au/)（オーストラリア流体力学会）が主催するウェビナー
+  - おすすめ：_TBA_
+- [LMFL Fluid Mechanics Webinar](https://www.youtube.com/@lmflfluidmechanicswebinar2801)
+  - フランスのリールにある[Laboratoire de Mécanique des Fluides de Lille](https://lmfl.cnrs.fr/)が主催するウェビナー
+  - おすすめ：_TBA_
 
-### セミナー
+#### 単発
 
 - [Guido Boffetta - Time Irreversibility in Turbulence (TSVP Talk at OIST)](https://youtu.be/Tpe3h3QsXK0?si=2b6FdYcfNWauUxvu) 2022
 - [R. Kerswell - Extracting Order from Disorder : Periodic Orbits Buried in Fluid Turbulence](https://youtu.be/xh-beI4SMEg?si=HjkEaDvtjw4YhuL7) 2019
