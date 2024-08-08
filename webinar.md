@@ -15,12 +15,15 @@
   - フランスのニースで開催された乱流カスケードに関するサマースクール
   - 荒木が参加していました（が，博論を書きながらだったのであまり集中して聞けていなかった）
   - [講義動画](https://mycore.core-cloud.net/index.php/s/7vAm99IV3RDl3tn)※パスワードつき
+    - おすすめ：_TBA_
+<!--
     - Eberhard Bodenschatz (MPIDS, Göttingen) - Experimental techniques in turbulence measurements.
     - Laurent Chevillard (ENS Lyon) - The phenomenology of fluid turbulence, and its stochastic representation.
     - Benjamin Favier (IRPHE - Aix-Marseille University) - Turbulence in geophysical fluid dynamics.
     - Franco Flandoli (Scuola Normale Superiore di Pisa) - Stochastic fluid mechanics and Boussinesq hypothesis.
     - Alessandra Lanotte (CNR NANOTEC and INFN, Lecce) - Breakup of small particles in turbulent flows.
     - Alexei Mailybaev (IMPA, Rio de Janeiro) - Turbulence predictability and spontaneous stochasticity.
+ -->
 - [Boulder Summer School 2022](https://www.youtube.com/playlist?list=PL8mMEmoXNBfaFV2wA4lDD7j_f2l7BTYIV) 2022
   - アメリカのコロラド州にある University of Colorado, Boulder で毎年開催されるサマースクール[BSS Physics School](https://boulderschool.yale.edu/)の 2022 年版"[Hydrodynamics Across Scales](https://boulderschool.yale.edu/2022/boulder-school-2022)"
   - 荒木が参加していました
