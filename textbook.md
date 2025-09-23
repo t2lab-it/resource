@@ -10,7 +10,7 @@
 - [沙川 貴大，「非平衡統計力学」，共立出版（2022）](https://www.kyoritsu-pub.co.jp/book/b10012378.html)
 - [伊藤 創祐，「非平衡科学」](https://sosuke110.com/noneq-phys.pdf)
   - 確率過程/ゆらぎの熱力学/情報量とゆらぎの熱力学/力学系と安定性
-- [神即自然の必然性：理論物理学 PDF (要点と途中計算を分離)](http://everything-arises-from-the-principle-of-physics.com/)
+- [神即自然の必然性：理論物理学PDF (要点と途中計算を分離)](http://everything-arises-from-the-principle-of-physics.com/)
   - ランダウ=リフシッツ/今井「流体力学」/沙川「非平衡統計力学」などの行間を埋めたノート
 
 ## 乱流
