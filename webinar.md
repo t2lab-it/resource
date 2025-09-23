@@ -1,5 +1,8 @@
 # ウェビナー
 
+- [Cassyni Fluid Dynamics Collection](https://cassyni.com/c/fluid-dynamics)
+  > A curated collection of fluids seminar series and symposia from across Cassyni.
+
 ## （集中）講義（5時間以上）
 
 - [Curso: Hidden Symmetries in Fluid Dynamics](https://www.youtube.com/playlist?list=PLo4jXE-LdDTQvCiCQ_KeJWeiiHzfxesSH) 2024
